@@ -33,6 +33,7 @@ export const dessertsData = [
     p4: "#fcdabc",
     p5: "#B1E1E7",
     p6: "#f8bbd0",
+    p33: "#F4C2D7", // Tono pastel RETO
   },
   {
     porcentaje: "Nivel Medio",
@@ -42,6 +43,7 @@ export const dessertsData = [
     p4: "#f8c89c",
     p5: "#64C3CE",
     p6: "#f48fb1",
+    p33: "#D81B60", // Tono medio RETO
   },
   {
     porcentaje: "Nivel Alto",
@@ -51,6 +53,7 @@ export const dessertsData = [
     p4: "#e69237",
     p5: "#35A0AC",
     p6: "#e91e63",
+    p33: "#E0008A", // Tono oscuro/exacto RETO
   },
 ];
 
@@ -105,13 +108,13 @@ export const candidatoData = [
     json: "UP/PSE/DSI",
   },
   {
-    partido: 6,
+    partido: 33, // Lista de Xavier Hervas (Movimiento RETO)
     nombre: "XAVIER HERVAS",
-    url: img("imagenes_presidentes/candidato_006.png"),
-    logo: img("logos_partidos_politicos/RETO.png"),
-    color: "#FFD700", // Dorado
-    nombrePartido: "RETO",
-    json: "RETO",
+    url: img("imagenes_presidentes/2023/XAVIER HERVAS.png"),
+    logo: img("logos_partidos_politicos/2023/MOVIMIENTO DEMOCRACIA.png"),
+    color: "#E0008A", // Color principal oficial del Movimiento RETO
+    nombrePartido: "COMPLETAR", // este candidato pertenece al Movimiento RETO
+    json: "COMPLETAR",
   },
   {
     partido: 7,
