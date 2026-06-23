@@ -53,11 +53,11 @@ export const candidatoData = [
   {
     partido: 1,
     nombre: 'PAZ RODRIGO',
-    url: img('candidatos/1.png'),
-    logo: img('partidos/ACTUEMOS.png'),
-    color: '#08519c',
-    nombrePartido: 'DP-5',
-    json: '1'
+    url: img("imagenes_presidentes/1996/RODRIGOPAZ_1996.png"), 
+    logo: img("logos_partidos_politicos/1996/DP_1996.png"), 
+    color: "#009933", // Verde oficial de Democracia Popular
+    nombrePartido: "DEMOCRACIA POPULAR",  
+    json: "DP" 
   },
   {
     partido: 2,
