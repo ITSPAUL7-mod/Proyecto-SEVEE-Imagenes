@@ -110,8 +110,8 @@ export const candidatoData = [
   {
     partido: 33, // Lista de Xavier Hervas (Movimiento RETO)
     nombre: "XAVIER HERVAS",
-    url: img("imagenes_presidentes/2023/XAVIER HERVAS.png"),
-    logo: img("logos_partidos_politicos/2023/MOVIMIENTO DEMOCRACIA.png"),
+    url: img("imagenes_presidentes/2023/XAVIER HERVAS_2023.png"),
+    logo: img("logos_partidos_politicos/2023/MOVIMIENTO DEMOCRACIA_2023.png"),
     color: "#E0008A", // Color principal oficial del Movimiento RETO
     nombrePartido: "COMPLETAR", // este candidato pertenece al Movimiento RETO
     json: "COMPLETAR",
