@@ -49,8 +49,8 @@ export const candidatoData = [
     url: img("imagenes_presidentes/1998/mahuad.png"),
     logo: img("logos_partidos_politicos/1998/democracia_popular_1998.png"),
     color: "#00994c", // Color principal investigado (Verde DP)
-    nombrePartido: "COMPLETAR", // este candidato pertenece al partido Democracia Popular (DP)
-    json: "COMPLETAR",
+    nombrePartido: "DP", // este candidato pertenece al partido Democracia Popular (DP)
+    json: "DP",
   },
   {
     partido: 99,
